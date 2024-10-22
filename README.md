@@ -6,7 +6,7 @@ Welcome to my portfolio! I am a passionate **Frontend Web Developer** specializi
 
 ## 🛠️ **Skills**
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), React, next, Node.js, Express, Mongodb
 - **Frameworks/Libraries:** React.js, Tailwind CSS, Bootstrap
 - **Tools:** Git, GitHub, Visual Studio Code
 - **Version Control:** Git, GitHub
